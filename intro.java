@@ -127,7 +127,7 @@ public class Generalizations {
     boolean isComplete = true;
     int awesomeLevel = 121;
     int epicLevel = awesomeLevel * 2;   
-    System.out.println(epicLevel);
+    System.out.println(epicLevel);  
     
 
   }
